@@ -10,6 +10,7 @@ I enjoy learning by building projects, breaking things, fixing them, and slowly 
 - JavaScript (ES6+, DOM, Async/Await, APIs)
 - Frontend fundamentals (HTML, CSS, responsive design)
 - Version control with Git & GitHub
+- React
 
 ---
 
@@ -29,8 +30,7 @@ Some repositories are experimental and built while learning core concepts.
 🔹 To-Do App  
 🔹 Student Marks Tracker  
 🔹 More projects in progress
-
-(A consolidated project gallery and larger applications are coming soon.)
+🔹 And More
 
 ---
 
