@@ -26,17 +26,17 @@ I enjoy learning by building projects, breaking things, fixing them, and slowly 
 This profile contains small learning projects as well as ongoing work.
 Some repositories are experimental and built while learning core concepts.
 
-🔹 Counter Program
-🔹 Guessing Game
-🔹 Login Checker
-🔹 Movie Rating
-🔹 Quiz App
-🔹 Student Dashboard
-🔹 Student Marks Tracker  
-🔹 To-Do App
-🔹 Traffic Light
-🔹 Weather App
-All these Project are maintained inside [ProjectHub ](https://github.com/abdulsami-94/Project-Hub/tree/main) Repo
+- Counter Program  
+- Guessing Game  
+- Login Checker  
+- Movie Rating  
+- Quiz App  
+- Student Dashboard  
+- Student Marks Tracker    
+- To-Do App  
+- Traffic Light  
+- Weather App   
+- All these Project are maintained inside [ProjectHub ](https://github.com/abdulsami-94/Project-Hub/tree/main) Repo
 ---
 
 ## 🎯 Goals
