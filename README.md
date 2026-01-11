@@ -8,9 +8,9 @@ I enjoy learning by building projects, breaking things, fixing them, and slowly 
 
 ## 🧠 What I’m Currently Learning
 - JavaScript (ES6+, DOM, Async/Await, APIs)
+- React
 - Frontend fundamentals (HTML, CSS, responsive design)
 - Version control with Git & GitHub
-- React
 
 ---
 
@@ -26,12 +26,17 @@ I enjoy learning by building projects, breaking things, fixing them, and slowly 
 This profile contains small learning projects as well as ongoing work.
 Some repositories are experimental and built while learning core concepts.
 
-🔹 Weather App  
-🔹 To-Do App  
+🔹 Counter Program
+🔹 Guessing Game
+🔹 Login Checker
+🔹 Movie Rating
+🔹 Quiz App
+🔹 Student Dashboard
 🔹 Student Marks Tracker  
-🔹 More projects in progress
-🔹 And More
-
+🔹 To-Do App
+🔹 Traffic Light
+🔹 Weather App
+All these Project are maintained inside [ProjectHub ](https://github.com/abdulsami-94/Project-Hub/tree/main) Repo
 ---
 
 ## 🎯 Goals
