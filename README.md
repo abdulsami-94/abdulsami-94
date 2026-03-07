@@ -2,21 +2,17 @@
 
 BCA Student @ Savitribai Phule Pune University | Aspiring Software Engineer | Amateur Cinematographer
 
-I’m currently navigating the transition from "it works on my machine" to "it actually works." I spend my time building full-stack applications, tweaking my Zsh config, and wondering why CSS hates me.
+## What I Build
 
----
-
-## 🚀 What I’m Doing Right Now
-- **The 3-Month Grind:** Currently on a rigorous Full-Stack roadmap (Next.js, TypeScript, and the deep pits of backend logic).
-- **AI Exploration:** Running local LLMs on my M4 and seeing how far I can push modern hardware.
-- **Visuals:** When I'm not coding, I'm behind a lens focusing on cinematography and video editing.
+Full-stack web applications using **Next.js, React, TypeScript, and Flask**.
+Currently on a focused 3-month sprint to reach production-ready, enterprise-level development.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend & Design
-- **Core:** JavaScript (ES6+), React.js, Next.js, HTML5, CSS3
+- **Core:** JavaScript (ES6+), React.js, Next.js, TypeScript, HTML5, CSS3
 - **Styling:** Tailwind CSS, Responsive Design
 
 ### Backend & Tools
@@ -29,13 +25,16 @@ I’m currently navigating the transition from "it works on my machine" to "it a
 ## 📂 Featured Projects
 
 ### [HIRED](https://github.com/abdulsami-94/Hired)
-A full-stack application focused on professional networking and opportunities (Transitioned from an e-commerce concept because we're aiming higher).
+A full-stack professional networking platform. Built with Next.js and Flask,
+featuring user authentication, profile management, and job opportunity matching.
 
 ### [CampusSync](https://github.com/abdulsami-94/CampusSync)
-A web-based college complaint management system built with **Python and Flask**. Features user authentication and a tracking system for institutional issues.
+A college complaint management system built with Python and Flask.
+Includes role-based authentication, complaint submission, and admin tracking — 
+deployed for real institutional use.
 
 ### [Project Hub](https://github.com/abdulsami-94/Project-Hub)
-A repository for my early JavaScript and React experiments (Weather App, Marks Tracker, etc.)—where the chaos began.
+Early JavaScript and React projects — Weather App, Marks Tracker, and more.
 
 ### [React Projects](https://github.com/abdulsami-94/React-Projects)
 A repository for my react projects.
@@ -44,8 +43,9 @@ A repository for my react projects.
 
 ## 🎯 Goals for 2026
 - Master **Next.js & TypeScript** for enterprise-grade applications.
-- Build and host a high-performance e-commerce platform.
-- Optimize my workflow between coding and cinematic production.
+- Ship a production-ready e-commerce platform with Next.js and TypeScript
+- Contribute to open source
+- Land an internship or junior role in full-stack development
 
 ---
 
