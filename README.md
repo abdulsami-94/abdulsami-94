@@ -1,56 +1,47 @@
-# Hi, I’m Abdul Sami Shaikh 👋
-
-BCA Student @ Savitribai Phule Pune University | Aspiring Software Engineer | Amateur Cinematographer
+# Hi, I'm Abdul Sami Shaikh 👋
+BCA Student @ Savitribai Phule Pune University | Frontend Developer | Amateur Cinematographer
 
 ## What I Build
 
-Full-stack web applications using **Next.js, React, TypeScript, and Flask**.
-Currently on a focused 3-month sprint to reach production-ready, enterprise-level development.
+Responsive, interactive frontend applications using **HTML, CSS, JavaScript, and React**.  
+Currently learning **TypeScript and Node.js** to move into full-stack development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & Design
-- **Core:** JavaScript (ES6+), React.js, Next.js, TypeScript, HTML5, CSS3
-- **Styling:** Tailwind CSS, Responsive Design
-
-### Backend & Tools
-- **Languages:** Python, C, C++
-- **Frameworks:** Flask
-- **Environment:** Linux (Zsh), macOS (M4), Git/GitHub, VS Code
+**Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS  
+**Learning:** TypeScript, Node.js  
+**Tools:** Git, GitHub, VS Code, Netlify, Render, macOS (M4)
 
 ---
 
 ## 📂 Featured Projects
 
-### [HIRED](https://github.com/abdulsami-94/Hired)
-A full-stack professional networking platform. Built with Next.js and Flask,
-featuring user authentication, profile management, and job opportunity matching.
+### [HIRED](https://github.com/abdulsami-94/Hired) — In Development
+A professional networking platform with user authentication, profile management, and job matching.  
+Frontend in React + Tailwind CSS. Backend planned with Node.js and TypeScript as I build those skills.
 
-### [CampusSync](https://github.com/abdulsami-94/CampusSync)
-A college complaint management system built with Python and Flask.
-Includes role-based authentication, complaint submission, and admin tracking — 
-deployed for real institutional use.
+### [CampusSync](https://github.com/abdulsami-94/CampusSync) — College Project
+A college complaint management system with role-based access for students, staff, and admins.  
+Deployed on Render.
 
 ### [Project Hub](https://github.com/abdulsami-94/Project-Hub)
-Early JavaScript and React projects — Weather App, Marks Tracker, and more.
-
-### [React Projects](https://github.com/abdulsami-94/React-Projects)
-A repository for my react projects.
+JavaScript and React mini-projects — Weather App, Marks Tracker, and more.
 
 ---
 
 ## 🎯 Goals for 2026
-- Master **Next.js & TypeScript** for enterprise-grade applications.
-- Ship a production-ready e-commerce platform with Next.js and TypeScript
-- Contribute to open source
-- Land an internship or junior role in full-stack development
+
+- Ship HIRED's frontend as a fully functional React app
+- Learn TypeScript and Node.js well enough to build HIRED's backend
+- Land a frontend internship
 
 ---
 
 ## 📫 Connect
+
 - **LinkedIn:** [Abdul Sami Shaikh](https://www.linkedin.com/in/abdul-sami-shaikh-0b95792b6/)
-- **GitHub:** [abdulsami_94](https://github.com/abdulsami-94)
+- **GitHub:** [abdulsami-94](https://github.com/abdulsami-94)
 
 *Building consistently. Learning in public. Probably debugging right now.*
