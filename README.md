@@ -11,7 +11,7 @@ Currently learning **TypeScript and Next.js** to move into full-stack developmen
 ## 🛠️ Tech Stack
 
 **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS  
-**Learning:** TypeScript, Next,js 
+**Learning:** TypeScript, Next,js  
 **Tools:** Git, GitHub, VS Code, Netlify, Render
 
 ---
