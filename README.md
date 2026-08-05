@@ -1,22 +1,25 @@
 # Hi, I'm Abdul Sami Shaikh 👋
-BCA Student @ Savitribai Phule Pune University | Frontend Developer | Amateur Cinematographer
+BCA Student @ Savitribai Phule Pune University | Frontend Developer 
 
 ## What I Build
 
 Responsive, interactive frontend applications using **HTML, CSS, JavaScript, and React**.  
-Currently learning **TypeScript and Node.js** to move into full-stack development.
+Currently learning **TypeScript and Next.js** to move into full-stack development.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS  
-**Learning:** TypeScript, Node.js  
-**Tools:** Git, GitHub, VS Code, Netlify, Render, macOS (M4)
+**Learning:** TypeScript, Next,js 
+**Tools:** Git, GitHub, VS Code, Netlify, Render
 
 ---
 
 ## 📂 Featured Projects
+
+### [SpendLens](https://github.com/abdulsami-94/SpendLens) - [Deployed](https://spend-lens-six.vercel.app/)
+A Web Based app to audit your AI credits Spending
 
 ### [HIRED](https://github.com/abdulsami-94/Hired) — In Development
 A professional networking platform with user authentication, profile management, and job matching.  
@@ -26,15 +29,12 @@ Frontend in React + Tailwind CSS. Backend planned with Node.js and TypeScript as
 A college complaint management system with role-based access for students, staff, and admins.  
 Deployed on Render.
 
-### [Project Hub](https://github.com/abdulsami-94/Project-Hub)
-JavaScript and React mini-projects — Weather App, Marks Tracker, and more.
 
 ---
 
 ## 🎯 Goals for 2026
 
-- Ship HIRED's frontend as a fully functional React app
-- Learn TypeScript and Node.js well enough to build HIRED's backend
+- Learn TypeScript and Nexte.js well enough to build HIRED's backend
 - Land a frontend internship
 
 ---
